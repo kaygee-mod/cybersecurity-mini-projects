@@ -10,4 +10,4 @@ Generates a random secure password based on user input length.
 Checks if a password is strong or weak and provides feedback.
 3.**File Encryption Tool**
 Encrypts and decrypts files using Pythons cryptography library.
->Some code snippets and structur ideas were assissted with AI, but the projects are mainly based on my understanding and school notes.
+>Some code snippets and structure ideas were assissted with AI, but the projects are mainly based on my understanding and school notes.
